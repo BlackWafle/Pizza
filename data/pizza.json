@@ -1,0 +1,291 @@
+{
+    "menu" : [
+        {
+            "kategori": "Pizza",
+            "nama": "AMERICAN CLASSIC CHEESE BURGER",
+            "topping": "Tomato Sauce, Mustard Sauce, Tomato, Beef Rasher, Beef Crumble",
+            "harga": 80909,
+            "gambar": "american classic cheese burger.png"
+        },
+        {
+            "kategori": "Pizza",
+            "nama": "GRILLED BEEF SUPREME",
+            "topping": "BBQ Sauce, Cheese Sauce, Onion, Beef Burger, Jalapeno, Mozzarella",
+            "harga": 80909,
+            "gambar": "grilled beef supreme.png"
+        },
+        {
+            "kategori": "Pizza",
+            "nama": "BEEF PEPPERONI FEAST",
+            "topping": "Domino's Pizza Sauce, Beef Pepperoni, Mozzarella Cheese",
+            "harga": 68364,
+            "gambar": "beef pepperoni feast.png"
+        },
+        {
+            "kategori": "Pizza",
+            "nama": "TUNA DELIGHT",
+            "topping": "Hot Spicy Tuna, Mayonise, Onion, Red Pepper, Parsley, Mozzarella",
+            "harga": 68364,
+            "gambar": "tuna delight.png"
+        },
+        {
+            "kategori": "Pizza",
+            "nama": "MARGHERITA",
+            "topping": "Domino's Pizza Sauce, Parsley, Tomato, Mozzarella Cheese",
+            "harga": 43273,
+            "gambar": "margherita.png"
+        },
+        {
+            "kategori": "Pizza",
+            "nama": "CHICKEN PEPPERONI FEAST",
+            "topping": "Domino's Pizza Sauce, Chicken Pepperoni, Mozzarella Cheese",
+            "harga": 43273,
+            "gambar": "chicken pepperoni feast.png"
+        },
+        {
+            "kategori": "Pizza",
+            "nama": "CHICKEN DOMINATOR",
+            "topping": "Rustis Sauce, Green Paprika, Corn, Chili Chicken, Chicken Pepperoni",
+            "harga": 80909,
+            "gambar": "chicken dominator.png"
+        },
+        {
+            "kategori": "Pizza",
+            "nama": "CHEESY MEATBALL BLAST",
+            "topping": "BBQ Sauce, Liquid Cheese Sauce, Onion, Meatball, Parsley, Champignon Mushroom, Mozzarella Cheese",
+            "harga": 80909,
+            "gambar": "cheesy meatball blast.png"
+        },
+        {
+            "kategori": "Pizza",
+            "nama": "AMERICAN ALL STAR",
+            "topping": "Tomato Sauce, Mustard Sauce, Jalapeno, Beef Rasher, Beef Crumble",
+            "harga": 80909,
+            "gambar": "american all star.png"
+        },
+        {
+            "kategori": "Pizza",
+            "nama": "CHICKEN LOVERS",
+            "topping": "Tomato Sauce, Chicken Rasher, parsley, Chicken Pepperoni",
+            "harga": 80909,
+            "gambar": "chicken lovers.png"
+        },
+        {
+            "kategori": "Pizza",
+            "nama": "CHEESE MANIA",
+            "topping": "Domino's Pizza Sauce, Chicken Pepperoni, Mozzarella Cheese",
+            "harga": 43273,
+            "gambar": "cheese mania.png"
+        },
+        {
+            "kategori": "Pizza",
+            "nama": "CHICKEN PEPPERONI FEAST",
+            "topping": "Domino's Pizza Sauce, Parsley, Extra Mozzarella Cheese",
+            "harga": 80909,
+            "gambar": "chicken pepperoni feast.png"
+        },
+        {
+            "kategori": "Pizza",
+            "nama": "EXTRAVAGANZZA",
+            "topping": "Domino's Pizza Sauce, Green Pepper, Onion, Black Olives, Mushroom, Beef",
+            "harga": 80909,
+            "gambar": "extravaganzza.png"
+        },
+        {
+            "kategori": "Pizza",
+            "nama": "MEATZZA",
+            "topping": "Domino's Pizza Sauce, Beef Pepperoni, Beef Sausage Cut, Beef",
+            "harga": 80909,
+            "gambar": "meatzza.png"
+        },
+        {
+            "kategori": "Pizza",
+            "nama": "VEGGIE MANIA",
+            "topping": "Domino's Pizza Sauce, Green Pepper, Corn, Mushroom, Tomato, Black",
+            "harga": 80909,
+            "gambar": "veggie mania.png"
+        },
+        {
+            "kategori": "Pizza",
+            "nama": "CHICKEN PEPPERONI FEAST",
+            "topping": "Domino's Pizza Sauce, Chicken Pepperoni, Mozzarella Cheese",
+            "harga": 43273,
+            "gambar": "chicken pepperoni feast.png"
+        },
+        {
+            "kategori": "Pizza",
+            "nama": "ULTIMATE CHEESE MELT",
+            "topping": "Liquid Cheese Sauce,Keju Mozzarella, Cheddar Cheese Sauce",
+            "harga": 80909,
+            "gambar": "ultimate cheese melt.png"
+        },
+        {
+            "kategori": "Pizza",
+            "nama": "DOUBLE BEEF BURGER",
+            "topping": "Domino's Pizza Sauce, Mustard Sauce, Tomato Sauce, Beef Crumble",
+            "harga": 68364,
+            "gambar": "double beef burger.png"
+        },
+        {
+            "kategori": "Pizza",
+            "nama": "CHICKEN DELIGHT",
+            "topping": "Domino's Pizza Sauce, Onion, Tomato, Chili Chicken, Parsley",
+            "harga": 68364,
+            "gambar": "chicken delight.png"
+        },
+        {
+            "kategori": "Pizza",
+            "nama": "MEAT & MEAT",
+            "topping": "Domino's Pizza Sauce, Parsley, Beef Pepperoni, Beef Sausage Cut,",
+            "harga": 68364,
+            "gambar": "meat n meat.png"
+        },
+        {
+            "kategori": "Pizza",
+            "nama": "CHEESY SAUSAGE",
+            "topping": "Domino's Pizza Sauce, Beef Sausage Cut, Mozzarella Cheese",
+            "harga": 43273,
+            "gambar": "cheesy sausage.png"
+        },
+        {
+            "kategori": "Pizza",
+            "nama": "BEEF DELIGHT",
+            "topping": "Domino's Pizza Sauce, Beef Rasher, Mozzarella Cheese",
+            "harga": 43273,
+            "gambar": "beef delight.png"
+        },
+        {
+            "kategori": "Pizza",
+            "nama": "DOUBLE BEEF BURGER",
+            "topping": "Domino's Pizza Sauce, Mustard Sauce, Tomato Sauce, Beef Crumble",
+            "harga": 68364,
+            "gambar": "double beef burger.png"
+        },
+        {
+            "kategori": "Pizza",
+            "nama": "BEEF RASHER",
+            "topping": "Saus Sambal, Beef Rasher, Parsley, Saus Keju, Keju Mozzarella",
+            "harga": 16364,
+            "gambar": "beef rasher.png"
+        },
+        {
+            "kategori": "Pizza",
+            "nama": "CHILI CHICKEN",
+            "topping": "Sambal Sauce, Cheese Sauce, Parsley, Chili Chicken, Mozzarella",
+            "harga": 16364,
+            "gambar": "chili chicken.png"
+        },
+        {
+            "kategori": "Pizza",
+            "nama": "CHICKEN SAUSAGE",
+            "topping": "Sambal Sauce, Cheese Sauce, Parsley, Chicken Sausage, Mozzarella",
+            "harga": 16364,
+            "gambar": "chicken sausage.png"
+        },
+        {
+            "kategori": "Pizza",
+            "nama": "AMERICAN FRANKIE SAUSAGE",
+            "topping": "Rustic Sauce, Mustard, Mozzarella Cheese, Meaty Frankfurter Beef Sausage, Beef Rasher, Beef Crumble, Onion, Green Pepper, Tomato, Mayonnaise, Parsley",
+            "harga": 80909,
+            "gambar": "american frankie sausage.png"
+        },
+        {
+            "kategori": "Pizza",
+            "nama": "NEWYORKER ALFREDO BEEF TRUFFLE",
+            "topping": "Truffle Alfredo Sauce, Mozzarella Cheese, Beef Burger, Onion, Champignon Mushroom, Parmesan Cheese, Parsley",
+            "harga": 80909,
+            "gambar": "newyorker alfredo beef truffle.png"
+        },
+        {
+            "kategori": "Pizza",
+            "nama": "NEWYORKER ALFREDO CHICKEN TRUFFLE",
+            "topping": "Truffle Alfredo Sauce, Mozzarella Cheese, Chili Chicken, Onion, Champignon Mushroom, Parmesan Cheese, Parsley",
+            "harga": 80909,
+            "gambar": "newyorker alfredo chicken truffle.png"
+        },
+        {
+            "kategori": "Sides",
+            "nama": "STUFFED POCKET SPICY CHICKEN SAUSAGE W CHEESE",
+            "topping": "STUFFED POCKET SPICY CHICKEN SAUSAGE W CHEESE",
+            "harga": 12364,
+            "gambar": "stuffed pocket spicy chicken sausage w cheese.png"
+        },
+        {
+            "kategori": "Sides",
+            "nama": "POTATO WEDGES",
+            "topping": "Potato Cut with Domino's Pizza Sauce",
+            "harga": 17818,
+            "gambar": "potato wedges.png"
+        },
+        {
+            "kategori": "Sides",
+            "nama": "CHOCOLATE LAVA",
+            "topping": "Sweet Lava Chocolate",
+            "harga": 27273,
+            "gambar": "chocolate lava.png"
+        },
+        {
+            "kategori": "Sides",
+            "nama": "AMERICAN MAC'N CHEESE",
+            "topping": "American Mac'N Cheese",
+            "harga": 31000,
+            "gambar": "american macn cheese.png"
+        },
+        {
+            "kategori": "Sides",
+            "nama": "SPICY TUNA MAC'N CHEESE EXTRA CHEESE",
+            "topping": "Spicy Tuna Mac'N Cheese Extra Cheese",
+            "harga": 35545,
+            "gambar": "spicy tuna macn cheese extra cheese.png"
+        },
+        {
+            "kategori": "Sides",
+            "nama": "CRISPY CHICKEN STRIPS (4 PCS)",
+            "topping": "Crispy Chicken Strips (4 Pcs)",
+            "harga": 26364,
+            "gambar": "crispy chicken strips.png"
+        },
+        {
+            "kategori": "Beverages",
+            "nama": "LYCHEE TEA",
+            "topping": "Lychee Tea",
+            "harga": 15455,
+            "gambar": "lychee tea.png"
+        },
+        {
+            "kategori": "Beverages",
+            "nama": "PEACH TEA",
+            "topping": "Peach Tea",
+            "harga": 15455,
+            "gambar": "peach tea.png"
+        },
+        {
+            "kategori": "Beverages",
+            "nama": "TARO MILK",
+            "topping": "Taro Milk",
+            "harga": 15455,
+            "gambar": "taro milk.png"
+        },
+        {
+            "kategori": "Beverages",
+            "nama": "390 ML COCA COLA",
+            "topping": "390 Ml Coca Cola",
+            "harga": 12182,
+            "gambar": "coca cola.png"
+        },
+        {
+            "kategori": "Beverages",
+            "nama": "600 ML OF ADES",
+            "topping": "600 Ml Of Ades",
+            "harga": 10727,
+            "gambar": "ades.png"
+        },
+        {
+            "kategori": "Beverages",
+            "nama": "390 ML SPRITE",
+            "topping": "390 Ml Sprite",
+            "harga": 12182,
+            "gambar": "sprite.png"
+        }
+    ]
+}
